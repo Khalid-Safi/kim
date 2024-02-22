@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Kimyasal reaksiyonlarda kullanılan bir katalizör örneği nedir?",
+    "correct_answer": "Platin",
+    "ans1": "Sodyum",
+    "ans2": "Sülfürik asit",
+    "ans3": "Platin",
+    "ans4": "Peroksit"
+  },
+  {
+    "question": "Bir moleküldeki bağların uzunluğunu ve açısını hesaplayan kimya dalı nedir?",
+    "correct_answer": "Moleküler geometri",
+    "ans1": "Organik kimya",
+    "ans2": "Nükleer kimya",
+    "ans3": "Spektroskopi",
+    "ans4": "Moleküler geometri"
+  },
+  {
+    "question": "Kimyasal bir reaksiyonun hızını etkileyen faktörler nelerdir?",
+    "correct_answer": "Sıcaklık, konsantrasyon, katalizör",
+    "ans1": "Basınç, hacim, yoğunluk",
+    "ans2": "Elektrik akımı, manyetik alan",
+    "ans3": "Radyasyon, titreşim, frekans",
+    "ans4": "Sıcaklık, konsantrasyon, katalizör"
+  },
+  {
+    "question": "Bir elementin özellikle soğuk sıcaklıklarda gaz halinde bulunmasına ne ad verilir?",
+    "correct_answer": "Amonyak",
+    "ans1": "Amonyak",
+    "ans2": "Neon",
+    "ans3": "Flor",
+    "ans4": "Oksijen"
+  },
+  {
+    "question": "Kimyasal bir bileşiğin kristal yapısını inceleyen bilim dalı nedir?",
+    "correct_answer": "Kristalografi",
+    "ans1": "Elektrokimya",
+    "ans2": "Kristalografi",
+    "ans3": "Termodinamik",
+    "ans4": "Biokimya"
+  },
+  {
+    "question": "Bir atomun en dışındaki enerji seviyesinde bulunan elektronlara ne ad verilir?",
+    "correct_answer": "Valans elektronları",
+    "ans1": "Valans elektronları",
+    "ans2": "Çekirdek elektronları",
+    "ans3": "İz elektronları",
+    "ans4": "Ortalama elektronlar"
+  },
+  {
+    "question": "Kimya laboratuvarında kullanılan bir asidin örneği nedir?",
+    "correct_answer": "Kükürtik asit (H2SO3)",
+    "ans1": "Hidroklorik asit",
+    "ans2": "Asetik asit",
+    "ans3": "Nitrik asit",
+    "ans4": "Kükürtik asit (H2SO3)"
+  },
+  {
+    "question": "Bir moleküldeki çift bağlantılar neden birbirine benzemez?",
+    "correct_answer": "Çift bağların konumu ve bağlanan atomlar arasındaki farklar",
+    "ans1": "Elektron sayısı",
+    "ans2": "Molekül ağırlığı",
+    "ans3": "Çift bağların konumu ve bağlanan atomlar arasındaki farklar",
+    "ans4": "Bağ enerjisi"
+  },
+  {
+    "question": "Kimyasal bir reaksiyonda dengenin sağlanması için hangi faktörler etkilidir?",
+    "correct_answer": "Sıcaklık, basınç, konsantrasyon",
+    "ans1": "Işığın yoğunluğu",
+    "ans2": "Manyetik alan",
+    "ans3": "Hacim, yoğunluk, kütle",
+    "ans4": "Sıcaklık, basınç, konsantrasyon"
+  },
+  {
+    "question": "Hidrojen peroksitin kimyasal formülü nedir?",
+    "correct_answer": "H2O2",
+    "ans1": "H2O",
+    "ans2": "H2O2",
+    "ans3": "H3O+",
+    "ans4": "HO"
+  }
+]

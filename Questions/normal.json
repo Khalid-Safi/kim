@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Bir atomun nötron sayısını bulmak için hangi bilgileri kullanırsınız?",
+    "correct_answer": "Atom ağırlığı ve proton sayısı",
+    "ans1": "Elektron dizilimi",
+    "ans2": "Elektronegatiflik",
+    "ans3": "Atom ağırlığı ve proton sayısı",
+    "ans4": "İyon yükü"
+  },
+  {
+    "question": "Bir gazın hacminin ve basıncının çarpımıyla ilgili olarak hangi kanun geçerlidir?",
+    "correct_answer": "Boyle'un kanunu",
+    "ans1": "Charles'ın kanunu",
+    "ans2": "Dalton'ın kanunu",
+    "ans3": "Avogadro'nun kanunu",
+    "ans4": "Boyle'un kanunu"
+  },
+  {
+    "question": "Bir metal ile bir ametal arasındaki bağ türü nedir?",
+    "correct_answer": "İyonik bağ",
+    "ans1": "Kovalent bağ",
+    "ans2": "Metalik bağ",
+    "ans3":"İyonik bağ",
+    "ans4":  "Van der Waals kuvvetleri"
+  },
+  {
+    "question": "Bir çözeltide çözünenin kütle oranını ifade eden terim nedir?",
+    "correct_answer": "Kütle yüzdesi",
+    "ans1": "Mol kesiri",
+    "ans2": "Kütle yüzdesi",
+    "ans3": "Normalite",
+    "ans4": "Molarite"
+  },
+  {
+    "question": "Bir elementin belirli bir izotopunun atom sayısı nedir?",
+    "correct_answer": "Proton sayısı",
+    "ans1": "Nötron sayısı",
+    "ans2": "Toplam nükleon sayısı",
+    "ans3": "Elektron sayısı",
+    "ans4": "Proton sayısı"
+  },
+  {
+    "question": "Bir kimyasal reaksiyonun hızını artıran bir faktör nedir?",
+    "correct_answer": "Yüksek sıcaklık",
+    "ans1": "Yüksek sıcaklık",
+    "ans2": "Büyük hacim",
+    "ans3": "Katı hal",
+    "ans4": "Düşük konsantrasyon"
+  },
+  {
+    "question": "Bir çözeltinin asidik olup olmadığını ölçmek için kullanılan ölçüm ölçeği nedir?",
+    "correct_answer": "pH",
+    "ans1": "Brix",
+    "ans2": "Baumé",
+    "ans3": "pH",
+    "ans4": "Newton"
+  },
+  {
+    "question": "Bir gazın hacminin, sıcaklığının ve basıncının birleşimini tanımlayan kanun nedir?",
+    "correct_answer": "İdeal gaz kanunu",
+    "ans1": "Boyle'un kanunu",
+    "ans2": "Charles'ın kanunu",
+    "ans3": "Dalton'ın kanunu",
+    "ans4": "İdeal gaz kanunu"
+  },
+  {
+    "question": "Kimyasal reaksiyonlarda kullanılan bir katalizör örneği nedir?",
+    "correct_answer": "Platin",
+    "ans1": "Sodyum",
+    "ans2": "Sülfürik asit",
+    "ans3": "Peroksit",
+    "ans4": "Platin"
+  },
+  {
+    "question": "Bir moleküldeki bağların uzunluğunu ve açısını hesaplayan kimya dalı nedir?",
+    "correct_answer": "Moleküler geometri",
+    "ans1": "Organik kimya",
+    "ans2": "Nükleer kimya",
+    "ans3": "Spektroskopi",
+    "ans4": "Moleküler geometri"
+  }
+]

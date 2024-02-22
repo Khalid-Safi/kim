@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --Primary-color: #2E425A;
+    --Text-color: #E78230;
+    --body-color: #22283E;
+}
+html{
+    font-family: "Roboto", sans-serif;
+}
+body{
+    background-color: var(--body-color);
+}
+/* Start App */
+.app{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+/* End App */
+/* Start Header */
+header{
+    width: 100%;
+    background-color: var(--Primary-color);
+    padding: 15px 0;
+    text-align: center;
+    color: white;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+header h1{
+    padding-bottom: 10px;
+}
+header span{
+    color: var(--Text-color);
+}
+@media(max-width:767px){
+    header{
+        border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    }
+}
+/* End Header */
+/* Start Seviye Section */
+.seviye{
+    width: 100%;
+    color: white;
+    padding: 10px 0;
+}
+.seviye h2{
+    text-align: center;
+    font-size: 35px;
+}
+.s-con{
+    display: flex;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+    margin-top: 10px;
+    flex-wrap: wrap;
+
+}
+.seviye .s-con div{
+    background-color: var(--Primary-color);
+    text-align: center;
+    width: 200px;
+    padding: 30px 0;
+    box-shadow: 3px 3px 12px white;
+    margin-top: 20px;
+    border: 1px solid white;
+    cursor: pointer;
+    transition: all 0.5s linear;
+    border-radius: 10px;
+}
+.seviye .s-con div:hover{
+    background-color: #e78230d5;
+}
+.s-con div h3{
+    padding-bottom: 20px;
+    text-shadow: 3px 3px 12px black;
+}
+.s-con div span{
+    font-size: 20px;
+}
+@media (max-width:767px) {
+    .seviye h2{
+        font-size: 25px;
+    }
+    .s-con div h3{
+        font-size: 17px;
+    }
+    .s-con div span{
+        font-size: 17px;
+    }
+}
+/* End Seviye Section */
+/* Start Footer */
+footer{
+    display: inline-block;
+    width: 100%;
+    background-color: var(--Primary-color);
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    text-transform: capitalize;
+    
+}
+footer h1{
+    padding-bottom: 10px;
+}
+footer span{
+    color: var(--Text-color);
+    text-transform: uppercase;
+    font-weight: 900;
+}
+@media(max-width:767px){
+    footer{
+        border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    }
+}
+/* End Footer */
+/* Start Question Section */
+.question{
+    display: none;
+    border: 1px solid #fff;
+    align-self: center;
+    width: 50%;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: var(--Primary-color);
+    color: white;
+    margin: 20px 0;
+}
+.q-header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+#vakit,.soru-no{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: var(--body-color);
+}
+#q-body #soru{
+    padding: 20px 0;
+}
+.ans div{
+    padding: 15px 10px;
+    background-color: var(--body-color);
+    margin-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.dogru{
+    text-align: center;
+    color: var(--Text-color);
+}
+@media (max-width:767px) {
+    .question{
+        width: 100%;
+        border: none;
+    }
+}
+
+/* End Question Section */

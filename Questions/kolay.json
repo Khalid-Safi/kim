@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Hidrojen peroksitin kimyasal formülü nedir?",
+    "correct_answer": "H2O2",
+    "ans1": "CO2",
+    "ans2": "H2O2",
+    "ans3": "C6H12O6",
+    "ans4": "NaCl"
+  },
+  {
+    "question": "Sodyumun simgesi nedir?",
+    "correct_answer": "Na",
+    "ans1": "Na",
+    "ans2": "Ni",
+    "ans3": "Fe",
+    "ans4": "Ne"
+  },
+  {
+    "question": "Asidik bir çözeltide renk değişikliğine neden olan gösterge nedir?",
+    "correct_answer": "Liturji",
+    "ans1": "Metil turuncu",
+    "ans2": "Liturji",
+    "ans3": "Fenolftalein",
+    "ans4": "Brom timol mavisi"
+  },
+  {
+    "question": "Maddenin belirli bir sıcaklıkta sıvıdan gaz hâline geçişine ne denir?",
+    "correct_answer": "Buharlaşma",
+    "ans1": "Yoğuşma",
+    "ans2": "Eritme",
+    "ans3": "Kristalizasyon",
+    "ans4": "Buharlaşma"
+  },
+  {
+    "question": "Elementlerin periyodik tablodaki sıralanışı hangi özelliğe göre yapılır?",
+    "correct_answer": "Atom numarasına göre",
+    "ans1": "Atom ağırlığına göre",
+    "ans2": "Elektron dizilimine göre",
+    "ans3": "Atom numarasına göre",
+    "ans4": "İyon yüküne göre"
+  },
+  {
+    "question": "Suda çözünen bir maddeye ne ad verilir?",
+    "correct_answer": "Çözelti",
+    "ans1": "Karışım",
+    "ans2": "Bileşik",
+    "ans3": "Suspansiyon",
+    "ans4": "Çözelti"
+  },
+  {
+    "question": "Elektronun yörüngesel hareketine ne ad verilir?",
+    "correct_answer": "Elektron dizilimi",
+    "ans1": "Çekirdek konumu",
+    "ans2": "Elektron konfigürasyonu",
+    "ans3": "Elektron dizilimi",
+    "ans4": "İyon yükü"
+  },
+  {
+    "question": "Su molekülünün kimyasal formülü nedir?",
+    "correct_answer": "H2O",
+    "ans1": "H2O",
+    "ans2": "NH3",
+    "ans3": "CH4",
+    "ans4": "CO2"
+  },
+  {
+    "question": "Bir elementin periyodik tablodaki sırası hangi özelliğe bağlıdır?",
+    "correct_answer": "Atom numarasına",
+    "ans1": "Atom ağırlığına",
+    "ans2": "Atom numarasına",
+    "ans3": "İyon yüküne",
+    "ans4": "Elektron dizilimine"
+  },
+  {
+    "question": "Kimyasal bir reaksiyonda ortaya çıkan enerjiye ne ad verilir?",
+    "correct_answer": "Entalpi",
+    "ans1": "Entropi",
+    "ans2": "Eksotermik",
+    "ans3": "Entalpi",
+    "ans4": "Endotermik"
+  }
+]
