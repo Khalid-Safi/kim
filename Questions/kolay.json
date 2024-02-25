@@ -58,10 +58,10 @@
   {
     "question": "Su molekülünün kimyasal formülü nedir?",
     "correct_answer": "H2O",
-    "ans1": "H2O",
-    "ans2": "NH3",
-    "ans3": "CH4",
-    "ans4": "CO2"
+    "ans1": "H<sub>2</sub>O",
+    "ans2": "NH<sub>3</sub>",
+    "ans3": "CH<sub>4</sub>",
+    "ans4": "CO<sub>2</sub>"
   },
   {
     "question": "Bir elementin periyodik tablodaki sırası hangi özelliğe bağlıdır?",
