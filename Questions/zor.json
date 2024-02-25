@@ -53,7 +53,7 @@
     "ans1": "Hidroklorik asit",
     "ans2": "Asetik asit",
     "ans3": "Nitrik asit",
-    "ans4": "Kükürtik asit (H2SO3)"
+    "ans4": "Kükürtik asit (H<sub>2</sub>SO<sub>3</sub>)"
   },
   {
     "question": "Bir moleküldeki çift bağlantılar neden birbirine benzemez?",
@@ -74,9 +74,9 @@
   {
     "question": "Hidrojen peroksitin kimyasal formülü nedir?",
     "correct_answer": "H2O2",
-    "ans1": "H2O",
-    "ans2": "H2O2",
-    "ans3": "H3O+",
+    "ans1": "H<sub>2</sub>O",
+    "ans2": "H<sub>2</sub>O<sub>2</sub>",
+    "ans3": "H<sub>3</sub>O+",
     "ans4": "HO"
   }
 ]
